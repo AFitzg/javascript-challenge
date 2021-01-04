@@ -1,0 +1,3 @@
+# javascript-challenge
+Created an app.js script that will allow a user to input a date on the index.html page where they can filter UFO sightings on a specific date.  Code needed to be able to append sighting data from data.js to the displayed table by date.  
+Through the use of a form in the index.html file, was able to have the code only provide specified data from data.js based off a single date the user entered. Button the form that to be responsive and accommodate for changes in the input date to reset the table and append specific date data tied to the entered date. The table needed to be reset whenever a new input data was keyed. By the use of an on.change event, I was able to complete the reset of the table and the append of the new sighting data by datetime.
